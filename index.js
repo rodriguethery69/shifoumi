@@ -25,7 +25,7 @@ const getResultat = ()=>{
       scorerobot++;
       break;
     default:
-      resultat = 'Vous avez gagner';
+      resultat = '    Vous avez gagner';
       scorejoueur++;
       break;
   }
